@@ -75,13 +75,13 @@ JMIS/
 Plots are saved in `visualization/plots/`:
 
 1. **Most In-Demand Skills** – Bar chart
-   ![Skills Plot](visualization/plots/skills.png)
+   ![Skills Plot](visualization/plots/skill_frequency.png)
 2. **Pareto Analysis: Job Postings by State** – Bar + cumulative line chart
-   ![Location Plot](visualization/plots/locations.png)
+   ![Location Plot](visualization/plots/location_pareto.png)
 3. **Top 15 Companies by Job Postings** – Horizontal bar chart
-   ![Companies Plot](visualization/plots/companies.png)
+   ![Companies Plot](visualization/plots/top_companies.png)
 4. **Weekly Job Demand Trends** – Line chart of top 5 skills
-   ![Weekly Trends Plot](visualization/plots/weekly_trends.png)
+   ![Weekly Trends Plot](visualization/plots/weekly_skill_trends.png)
 
 > ✅ Sample data is already included, so you can run the full pipeline immediately.
 
