@@ -1,0 +1,44 @@
+# -------------------
+# Python cache & compiled files
+# -------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------
+# Virtual environments
+# -------------------
+venv/
+.venv/
+env/
+
+# -------------------
+# Jupyter Notebook checkpoints
+# -------------------
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# -------------------
+# IDE / editor configs
+# -------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------
+# Logs
+# -------------------
+logs/
+*.log
+
+# -------------------
+# Test caches
+# -------------------
+.pytest_cache/
+
+# -------------------
+# OS generated files
+# -------------------
+.DS_Store
+Thumbs.db

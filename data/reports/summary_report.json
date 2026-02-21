@@ -1,0 +1,213 @@
+{
+    "total_jobs": 1277,
+    "top_skills": [
+        {
+            "Skill": "ai",
+            "Count": 535
+        },
+        {
+            "Skill": "sql",
+            "Count": 125
+        },
+        {
+            "Skill": "git",
+            "Count": 114
+        },
+        {
+            "Skill": "react",
+            "Count": 96
+        },
+        {
+            "Skill": "python",
+            "Count": 82
+        }
+    ],
+    "top_locations": [
+        {
+            "Location": "maharashtra",
+            "Count": 317
+        },
+        {
+            "Location": "telangana",
+            "Count": 267
+        },
+        {
+            "Location": "karnataka",
+            "Count": 122
+        },
+        {
+            "Location": "tamil nadu",
+            "Count": 36
+        },
+        {
+            "Location": "ghaziabad",
+            "Count": 20
+        }
+    ],
+    "top_companies": [
+        {
+            "Company": "persistent systems",
+            "Count": 60
+        },
+        {
+            "Company": "tata consultancy services",
+            "Count": 54
+        },
+        {
+            "Company": "ltimindtree",
+            "Count": 24
+        },
+        {
+            "Company": "luxoft",
+            "Count": 19
+        },
+        {
+            "Company": "brace infotech private ltd",
+            "Count": 12
+        }
+    ],
+    "jobs_per_month": [
+        {
+            "Month": "January",
+            "Count": 78
+        },
+        {
+            "Month": "February",
+            "Count": 887
+        },
+        {
+            "Month": "March",
+            "Count": 0
+        },
+        {
+            "Month": "April",
+            "Count": 2
+        },
+        {
+            "Month": "May",
+            "Count": 3
+        },
+        {
+            "Month": "June",
+            "Count": 5
+        },
+        {
+            "Month": "July",
+            "Count": 1
+        },
+        {
+            "Month": "August",
+            "Count": 0
+        },
+        {
+            "Month": "September",
+            "Count": 2
+        },
+        {
+            "Month": "October",
+            "Count": 2
+        },
+        {
+            "Month": "November",
+            "Count": 12
+        },
+        {
+            "Month": "December",
+            "Count": 8
+        }
+    ],
+    "weekly_top_skills": [
+        {
+            "Week": "2025-04-27",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-05-18",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-05-25",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-06-08",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-06-22",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-09-07",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-09-28",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-10-19",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-10-26",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-11-09",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-11-30",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-12-07",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-12-14",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-12-21",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2025-12-28",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2026-01-04",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2026-01-11",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2026-01-18",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2026-01-25",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2026-02-01",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2026-02-08",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2026-02-15",
+            "TopSkill": "ai"
+        },
+        {
+            "Week": "2026-02-22",
+            "TopSkill": "ai"
+        }
+    ]
+}
