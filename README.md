@@ -90,7 +90,7 @@ Plots are saved in `visualization/plots/`:
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/JMIS.git
+git clone https://github.com/shaurya174/JMIS.git
 cd JMIS
 
 # Create and activate virtual environment
