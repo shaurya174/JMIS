@@ -42,6 +42,11 @@ JMIS/
 │   ├─ job_scraper.py
 │   ├─ parser.py
 │   └─ __init__.py
+|
+├─ visualization/           # Plotting and visualization logic
+│   ├─ visualizer.py        # Generates plots
+│   └─ plots/              # Contains generated plot images
+|
 ├─ tests/                   # Pytest unit tests
 ├─ main.py                  # Run the full pipeline
 ├─ requirements.txt         # Python dependencies
