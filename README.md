@@ -1,6 +1,6 @@
 # 🎯 Job Market Insights System (JMIS)
 
-![JMIS Banner](https://img.shields.io/badge/Job-Market-Insights-blue?style=for-the-badge\&logo=python)
+![JMIS Banner](logo.png)
 
 ---
 
