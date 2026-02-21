@@ -1,6 +1,6 @@
 # 🎯 Job Market Insights System (JMIS)
 
-![JMIS Banner](logo.png)
+<img src="logo.png" alt="JMIS Banner" width="200" height="100">
 
 ---
 
